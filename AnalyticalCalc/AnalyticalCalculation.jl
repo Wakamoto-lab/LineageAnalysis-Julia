@@ -121,5 +121,5 @@ ylabel("Rescaled \$K^\\prime\\left(\\xi\\right)\$",fontsize=10)
 #legend(fontsize=10)
 
 subplots_adjust(wspace=0.4,hspace=0.4)
-savefig("AnalyticalCalculation_demo.pdf")
+savefig("AnalyticalCalculation.pdf")
 ;
